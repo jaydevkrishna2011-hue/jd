@@ -129,7 +129,7 @@ window.addEventListener("scroll", () => {
 Smooth Scroll (Lenis)
 =========================================*/
 
-/*const lenis = new Lenis({
+const lenis = new Lenis({
 
     autoRaf:true,
 
@@ -139,7 +139,7 @@ Smooth Scroll (Lenis)
 
     wheelMultiplier:1
 
-});*/
+});
 /*=========================================
 Scroll Reveal
 =========================================*/
